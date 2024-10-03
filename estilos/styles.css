@@ -1,0 +1,34 @@
+body{
+    background-image: url(fondo.png);
+  background-position: 50%;
+    
+    background-position-y: -130px;
+}
+
+h1{
+color: black;
+text-shadow: #ffff 2px 3px 6px;
+
+}
+
+.info{
+    text-align: left;
+    color: black;
+    border: 10px groove  black;
+    border-radius: 10px 10px 10px;
+    border-color: black;
+    background-color: white;
+    width: 20%;
+}
+
+a{
+text-align: bottom;
+    color: white;
+    font-size: 15px;
+}
+
+.proce{
+
+    text-align: left;
+    padding-top: 200px;
+}
