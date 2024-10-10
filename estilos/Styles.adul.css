@@ -1,0 +1,67 @@
+body {
+    background-image: url(Fonadultez.jpeg);
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+.texto1 {
+    color: #e6e6e6;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+}
+
+
+#Titulos{
+    color: aliceblue;
+}
+
+
+
+.imagen1 {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    margin-right: 10000px;
+    margin-bottom: 10000px;
+}
+
+.imagen1 img {
+    margin-bottom: 7px;
+    width: 55%;
+    margin-right: 100px;
+    height: auto;
+    border: 5px solid #0ff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #0ff;
+}
+
+h1 {
+    color: #0ff;
+    text-shadow: 0 0 10px #0ff;
+}
+
+.proce {
+    color: #ffffff;
+    text-align: left;
+}
+
+a {
+    text-align: bottom;
+    color: white;
+    font-size: 15px;
+}
+
+.proce {
+    color: #ffffff;
+    text-align: left;
+}
+
+a {
+    text-align: bottom;
+    color: white;
+    font-size: 15px;
+}

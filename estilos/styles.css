@@ -5,10 +5,9 @@ body{
     background-position-y: -130px;
 }
 
-h1{
-color: black;
-text-shadow: #ffff 2px 3px 6px;
-
+h1 {
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 10px #0ff;
 }
 
 .info{
